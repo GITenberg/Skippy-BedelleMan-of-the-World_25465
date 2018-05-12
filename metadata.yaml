@@ -1,0 +1,38 @@
+_repo: Skippy-BedelleMan-of-the-World_25465
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fuhr, E. (Ernest)
+    alias: Fuhr, Ernest
+    birthdate: 1874
+    deathdate: 1933
+    gutenberg_agent_id: '31355'
+    url: http://www.gutenberg.org/2009/agents/31355
+covers:
+- cover_type: archival
+  image_path: 25465-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, Owen
+    alias: Johnson, Owen McMahon
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '4502'
+    url: http://www.gutenberg.org/2009/agents/4502
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Johnson
+description: ''
+gutenberg_issued: '2008-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawrenceville School -- Fiction'
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PS'
+title: "Skippy Bedelle\r\nHis Sentimental Progress From the Urchin to the Complete\
+  \ Man of the World"
+url: http://www.gutenberg.org/ebooks/25465
